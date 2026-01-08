@@ -1,6 +1,30 @@
 {
   "inventory": [
     {
+      "GBOM_data": [
+        {
+          "MID": "MID20257",
+          "QTY": 8,
+          "REF": "U1-U8",
+          "SupplierType": "Online",
+          "SupplierName": "STM"
+        },
+        {
+          "MID": "MID20267",
+          "QTY": 7,
+          "REF": "",
+          "SupplierType": "Online",
+          "SupplierName": "Mouser"
+        },
+        {
+          "MID": "MID20288",
+          "QTY": 2,
+          "REF": "",
+          "SupplierType": "Online",
+          "SupplierName": "KONE"
+        }
+      ],
+      "RepoCreatedAt": "2026-01-08T13:15:14+05:30",
       "MaterialTitle": {
         "Name": "GOKUL_Updated",
         "PN": "Updated123",
@@ -9,9 +33,9 @@
       "MID": "MID20314",
       "MD": "UpdatedMD",
       "MT": "GBOM",
+      "MQATG": "#CLASS_0",
       "MQNT": 1,
       "MCost": 250.0,
-      "MQATG": "#CLASS_0",
       "ML": "",
       "MDS": "",
       "MAF1": "",
@@ -22,20 +46,6 @@
       "MR": "",
       "MaterialImages": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d6/Files_App_icon_iOS.png"
-      ],
-      "GBOM_data": [
-        {
-          "MID": "MID20257",
-          "QTY": 3
-        },
-        {
-          "MID": "MID20267",
-          "QTY": 7
-        },
-        {
-          "MID": "MID20288",
-          "QTY": 2
-        }
       ]
     }
   ]
