@@ -12,14 +12,14 @@
         {
           "MID": "MID20267",
           "QTY": 7,
-          "REF": "",
+          "REF": "C1",
           "SupplierType": "Online",
           "SupplierName": "Mouser"
         },
         {
           "MID": "MID20288",
           "QTY": 2,
-          "REF": "",
+          "REF": "D1",
           "SupplierType": "Online",
           "SupplierName": "KONE"
         }
