@@ -2,16 +2,16 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "GOKUL",
-        "PN": "",
-        "MF": ""
+        "Name": "GOKUL_Updated",
+        "PN": "Updated123",
+        "MF": "updateMF"
       },
       "MID": "MID20314",
-      "MD": "",
+      "MD": "UpdatedMD",
       "MT": "GBOM",
-      "MQNT": 0,
-      "MCost": 0.00,
-      "MQATG": "GBOM",
+      "MQNT": 1,
+      "MCost": 250.0,
+      "MQATG": "#CLASS_0",
       "ML": "",
       "MDS": "",
       "MAF1": "",
@@ -25,16 +25,16 @@
       ],
       "GBOM_data": [
         {
-          "MID": "MID20256",
-          "QTY": 4
-        },
-        {
-          "MID": "MID20266",
-          "QTY": 8
-        },
-        {
-          "MID": "MID20287",
+          "MID": "MID20257",
           "QTY": 3
+        },
+        {
+          "MID": "MID20267",
+          "QTY": 7
+        },
+        {
+          "MID": "MID20288",
+          "QTY": 2
         }
       ]
     }
